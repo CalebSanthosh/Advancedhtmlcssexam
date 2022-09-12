@@ -1,5 +1,36 @@
 body{
-    background-color:#651FFF;
+    background-color:#2600ff;
     color:gold
 }
-A
+a{
+    color:darkred
+}
+.DS{
+   
+ background:#ff008c;
+    color:greenyellow
+    
+}
+.DSI{
+    background-color:#00ff91;
+    color:orangered
+}
+.DS3{
+    background-color:#ff9d00;
+    color:royalblue
+}
+.DS2{
+    background-color:#78b9ff;
+    color:hotpink
+}
+.DS3NEW{
+    background-color:#ff2600;
+    color:cyan
+}
+.title{
+
+    font-size:48px;
+    text-align:center
+    
+   
+}
