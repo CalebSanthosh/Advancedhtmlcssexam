@@ -1,5 +1,5 @@
 body{
-    background-color:#2600ff;
+    background-color:#7700ff;
     color:gold
 }
 a{
@@ -28,9 +28,27 @@ a{
     color:cyan
 }
 .title{
-
+border-style: solid;
+border-color: black;
+border-width: 5px;
+background-color:snow;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
     font-size:48px;
     text-align:center
     
-   
+
+}
+img{
+   display: block;
+   margin:0px auto;
+    border-color:black;
+    border-style:solid;
+    border-width: 10px;
+    height: 500px;
+}
+h1, p, ol{
+    text-align: center;
 }
